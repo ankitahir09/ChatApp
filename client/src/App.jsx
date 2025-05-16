@@ -10,7 +10,7 @@ function App() {
   return (
     <>
     <Toaster/>
-      <main>
+      <main className='w-screen'>
        <Outlet/>
       </main>
       </>
